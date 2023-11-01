@@ -8,4 +8,6 @@ Projeto desenvolvido com apoio de: FAPESP \#2022/15304-4, CNPq, CAPES, FINEP and
 
 Publicações oriundas do projeto devem incluir nos agradecimentos: The authors are grateful to FAPESP grant \#2022/15304-4, CNPq, CAPES, FINEP and MCTI PPI-SOFTEX (TIC 13 DOU 01245.010222/2022-44). 
 
+Publicações, orientações e outros resultados produzidos pelos pesquisadores e estudantes do projeto podem ser encontrados em http://vision.ime.usp.br/~hirata/CVNLP/
+
 <img width="1504" alt="image" src="https://github.com/rmcesarjr/CVNLP/assets/96126126/36f480b1-147a-4745-b5c0-795f16f3a719">
